@@ -5,3 +5,5 @@ This solution contains several projects for trainees to get an introduction into
 - Interfaces
 - Singleton
 - Factories
+- Extensions
+- Async/Await
